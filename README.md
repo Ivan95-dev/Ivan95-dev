@@ -1,6 +1,6 @@
 - Hello and welcome to my profile on GitHub! 👋
 - I'm interested in programming and open source software and looking forward to developing one in the future
-- Currently studying C++ and Python, as well as sometimes expirementing with Java, Go and Rust
+- Currently studying C++ and Python, as well as sometimes expirementing with Java, Go and Rust. Another interest of mine for the farther future is C and Assembly as I'm interested in Operating Systems inner workings
 - I'm using GitHub for educational purposes as of now, so you may not see me committing or making any public repositories
 - How to reach me: My E-Mail, although I may not answer you due to reason above
 - Pronouns: He/Him
